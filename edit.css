@@ -1,0 +1,21 @@
+/* ex 1: */
+ .Highlighted { background-color: yellow; }
+ .Underlined { text-decoration: underline; }
+ .Bold { font-weight: bold; }
+
+ /*ex 2:*/
+ 
+ .visible
+ {
+    display: block;
+ }
+.hidden
+{
+   display: none;
+}
+.sec {
+    margin-top: auto;
+}
+
+/*ex 3:*/
+pointer-events: none;
